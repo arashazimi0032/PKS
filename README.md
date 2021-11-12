@@ -1,8 +1,8 @@
-# Improved ORB-SLAM3 Key-Frame selection
+# PKS-ORB-SLAM: Photogrammetric key-frame selection
 
 **Authors:** Arash Azimi
 
-An improved geometric key-frame selection method built on ORB-SLAM3
+An improved Photogrammetric key-frame selection method built on ORB-SLAM3
 
 # 3. Building
 
