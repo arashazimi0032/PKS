@@ -13,8 +13,10 @@ If you use PKS in an academic work, please cite:
       author={Arash Azimi and Ali {Hosseininaveh Ahmadabadian} and Fabio Remondino},
       journal={ISPRS Journal of Photogrammetry and Remote Sensing},
       volume = {191},
+      pages = {18-32},
+      issn = {0924-2716},
       year={2022}
-      doi={https://doi.org/10.1016/j.isprsjprs.2022.07.003}
+      doi={(https://doi.org/10.1016/j.isprsjprs.2022.07.003)}
      }
 
 # 3. Building
