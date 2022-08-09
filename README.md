@@ -1,4 +1,4 @@
-# PKS-ORB-SLAM: Photogrammetric key-frame selection
+# PKS-ORB-SLAM: Photogrammetric Key-frame Selection
 
 **Authors:** Arash Azimi
 
