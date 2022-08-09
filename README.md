@@ -8,17 +8,14 @@ An improved Photogrammetric key-frame selection method built on ORB-SLAM3
 
 If you use PKS in an academic work, please cite:
 
-  @article{AZIMI202218,
-    title = {PKS: A photogrammetric key-frame selection method for visual-inertial systems built on ORB-SLAM3},
-    journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-    volume = {191},
-    pages = {18-32},
-    year = {2022},
-    issn = {0924-2716},
-    doi = {https://doi.org/10.1016/j.isprsjprs.2022.07.003},
-    url = {https://www.sciencedirect.com/science/article/pii/S0924271622001770},
-    author = {Arash Azimi and Ali {Hosseininaveh Ahmadabadian} and Fabio Remondino}
-  }
+    @article{ORBSLAM3_2020,
+      title={{ORB-SLAM3}: An Accurate Open-Source Library for Visual, Visual-Inertial 
+               and Multi-Map {SLAM}},
+      author={Campos, Carlos AND Elvira, Richard AND G\´omez, Juan J. AND Montiel, 
+              Jos\'e M. M. AND Tard\'os, Juan D.},
+      journal={arXiv preprint arXiv:2007.11898},
+      year={2020}
+     }
 
 # 3. Building
 
