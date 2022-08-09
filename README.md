@@ -8,7 +8,7 @@ An improved Photogrammetric key-frame selection method built on ORB-SLAM3
 
 Azimi, A., Ahmadabadian, A.H. and Remondino, F., 2022. **PKS: A photogrammetric key-frame selection method for visual-inertial systems built on ORB-SLAM3**. ISPRS Journal of Photogrammetry and Remote Sensing, 191, pp.18-32.
 
-Azimi, A., Hosseininaveh, A. and Remondino, F., 2022. **A NOVEL GEOMETRIC KEY-FRAME SELECTION METHOD FOR VISUAL-INERTIAL SLAM AND ODOMETRY SYSTEMS**. The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, 43, pp.9-14.
+Azimi, A., Hosseininaveh, A. and Remondino, F., 2022. **A NOVEL GEOMETRIC KEY-FRAME SELECTION METHOD FOR VISUAL-INERTIAL SLAM AND ODOMETRY SYSTEMS**. The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, 43, pp.9-14.[PDF](https://media.proquest.com/media/hms/PFT/1/n2Y8N?_s=3Etl1aiR%2F%2F3tEARSr42grt2wCGA%3D)
 
 # 3. License
 
