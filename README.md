@@ -12,6 +12,10 @@ Azimi, A., Hosseininaveh, A. and Remondino, F., 2022. **A NOVEL GEOMETRIC KEY-FR
 
 # 3. License
 
+This repository is released under [Apache License V2](http://www.apache.org/licenses/LICENSE-2.0). To develop, publication and use it, please follow the terms of this license.
+
+# 4. Citation
+
 If you use PKS in an academic work, please cite:
 
     @article{AZIMI202218,
@@ -25,7 +29,18 @@ If you use PKS in an academic work, please cite:
       doi={https://doi.org/10.1016/j.isprsjprs.2022.07.003}
      }
 
-# 4. Building
+    @article{
+      title={a Novel Geometric Key-Frame Selection Method for Visual-Inertial Slam and Odometry Systems},
+      author={Arash Azimi and Ali {Hosseininaveh Ahmadabadian} and Fabio Remondino},
+      journal={The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences},
+      volume = {43},
+      pages = {9-14},
+      issn = {1682-1750},
+      year={2022}
+      doi={https://doi.org/10.5194/isprs-archives-XLIII-B2-2022-9-2022}
+     }
+
+# 5. Building
 
 To build this repository, you can follow all the steps mentioned in the original version of ORB-SLAM3 in https://github.com/UZ-SLAMLab/ORB_SLAM3
 
